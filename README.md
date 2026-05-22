@@ -1,17 +1,16 @@
-# Golang 
-Repositório destinado ao curso "Aprenda Golang do zero" da Udemy.
+# udemy-golang
+Este repositório armazena os artefatos produzidos durante o curso `Aprenda Golang do zero` da Udemy.
 
-# Procedimentos iniciais
-Para obter uma cópia local, devidamente instalada e configurada, siga as instruções a seguir:
+## Como obter uma cópia
 
-## Clonagem
+Caso deseje obter uma cópia local:
 
-1. Clonar repositório:
-	```sh
-	git clone https://github.com/alexfdealmeida/udemy-golang.git
-	```
+  ```sh
+  git clone https://github.com/ALX-Courses/udemy-golang.git
+  ```
+  
+## Autor
+Alex Almeida
 
-2. Executar o script 'getting-started.sh' localizado no diretório raiz.
-	```sh
-	./getting-started.sh
-	```
+## Licença
+[MIT License](LICENSE)
